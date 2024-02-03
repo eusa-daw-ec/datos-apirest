@@ -1,5 +1,5 @@
 {
-  "mensajes":
+  "mensajes": [
     {
       "id": 1,
       "from": "usuario@dominio.com",
@@ -7,4 +7,5 @@
       "subject": "Prueba",
       "body": "Prueba de mensaje con API Rest"
     },
+  ]
 }
